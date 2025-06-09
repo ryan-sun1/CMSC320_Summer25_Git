@@ -4,4 +4,5 @@ Answer: [We consider using Git because it helps manage code and data changes. De
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: [Data science can be applied to healthcare. For example, hospitals use data science to predict patient rates and improve treatment plans by analyzing the patient's history and clinical data.
+Answer: [Data science can be applied to healthcare. For example, hospitals use data science to predict patient rates and improve treatment plans by analyzing the patient's history and clinical data.]
+ 
